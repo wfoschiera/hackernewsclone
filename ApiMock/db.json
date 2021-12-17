@@ -1,0 +1,14 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "News one"
+    },
+    [
+      {
+        "id": 2,
+        "title": "News tchu"
+      }
+    ]
+  ]
+}
